@@ -1133,7 +1133,6 @@
       <block type="text_print" id="$gl|{cfkHG.[m@~QU#48">
         <value name="TEXT">
           <shadow type="text" id="$ma#Dsk|iDDkf4fo.]R5">
-            <field name="TEXT">Wrong Password ❌❌</field>
           </shadow>
         </value>
         <next>
@@ -1142,7 +1141,6 @@
             <field name="NOTIFICATION_SOUND">error</field>
             <value name="MESSAGE">
               <shadow type="text" id="Z4XdwP/Usx7FwB56.25X">
-                <field name="TEXT">Wrong password ❌❌</field>
               </shadow>
             </value>
           </block>
@@ -1197,14 +1195,12 @@
                 <field name="TYPE">TEXT</field>
                 <value name="TEXT">
                   <shadow type="text" id="GxpcCqd?mKY{W#f~e?Gw">
-                    <field name="TEXT">Password</field>
                   </shadow>
                 </value>
               </block>
             </value>
             <value name="B">
-              <block type="text" id="}.6A6R89fwz^:Rq8G[jM" collapsed="true">
-                <field name="TEXT">Ac4@Volt</field>
+              <block type="text" id="}.6A6R89fwz^:Rq8G[jM" collapsed="true"
               </block>
             </value>
           </block>
